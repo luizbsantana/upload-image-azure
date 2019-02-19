@@ -1,0 +1,14 @@
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\bin\Debug\netcoreapp2.1\upload-image.Api.deps.json
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\bin\Debug\netcoreapp2.1\upload-image.Api.runtimeconfig.json
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\bin\Debug\netcoreapp2.1\upload-image.Api.runtimeconfig.dev.json
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\bin\Debug\netcoreapp2.1\upload-image.Api.dll
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.csprojAssemblyReference.cache
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.RazorAssemblyInfo.cache
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.RazorAssemblyInfo.cs
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.AssemblyInfoInputs.cache
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.AssemblyInfo.cs
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\bin\Debug\netcoreapp2.1\upload-image.Api.pdb
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.dll
+C:\Users\Luiz Santana\Documents\Projects\upload-image-azure\upload-image.Api\upload-image.Api\obj\Debug\netcoreapp2.1\upload-image.Api.pdb

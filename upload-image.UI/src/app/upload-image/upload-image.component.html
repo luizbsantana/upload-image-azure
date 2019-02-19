@@ -1,0 +1,32 @@
+<div class="card">
+  <div class="card-header">
+    <div class="container row">
+      <span style="font-size: 18px"><b>Adicionar Imagem</b></span>
+    </div>
+  </div>
+  <div class="card-body">
+    <!-- define o formulário para envio da imagem -->
+    <form novalidate [formGroup]="form">
+      <!-- define o input para definir um nome amigável para a imagem -->
+      <div class="form-group">
+        <label> Nome da Imagem: </label>
+        <input formControlName="name" type="text" class="form-control" autofocus />
+      </div>
+      <!-- define o input para selecionar a imagem para upload -->
+      <div class="form-group">
+        <label> Imagem: </label>
+        <div class="input-group mb-3">
+          <input formControlName="img" id="img" class="form-control" style="display: none;" type="file" accept="image/*"
+            (change)="handleFileInput($event.target.files)" #imageInput />
+          <input type="text" class="form-control" placeholder="{{selectedImage}}" disabled/>
+          <div class="input-group-append">
+            <input class="btn btn-sm btn-outline-primary" type="button" (click)="imageInput.click()"
+              value="Selecionar imagem ">
+          </div>
+        </div>
+      </div>
+      <!-- botão para realizar a requisição HTTP -->
+      <button class="btn btn-outline-success form-control" (click)="salvar()">Salvar</button>
+    </form>
+  </div>
+</div>
